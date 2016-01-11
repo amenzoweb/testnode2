@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "testnode2",
+  "version": "0.0.1",
+  "description": "deuxieme projet v2b",
+  "main": "server.js",
+  "author": "aw",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "body-parser": "^1.14.2",
+    "bson": "^0.4.20",
+    "express": "^4.13.3",
+    "mongo-fixtures": "^1.0.1",
+    "mongoose": "^4.3.4",
+    "path": "^0.12.7",
+    "pow-mongodb-fixtures": "^0.13.0"
+  }
+}

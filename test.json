@@ -1,0 +1,25 @@
+[{
+ "id": "0",
+ "name":"dupont",
+ "lastname": "Maurice",
+ "age": "55",
+ "job": "technical support",
+ "tel": "0123456789"
+},
+{
+ "id": "1",
+ "name":"valentino",
+ "lastname": "anna",
+ "age": "23",
+ "job": "secretary",
+ "tel": "0123456789"
+},
+{
+ "id": "2",
+ "name":"Barajk",
+ "lastname": "shaima",
+ "age": "40",
+ "job": "finnanicial assistant",
+ "tel": "0123456789"
+}
+]
